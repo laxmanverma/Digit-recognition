@@ -8,7 +8,11 @@ To clone the repository:
 $ git clone https://github.com/laxmanverma/Digit-recognition.git
 
 To run the script you must first
+
 $ sudo apt install python-pip
+
 $ pip install numpy
+
 then run the the script by 
+
 $ python Neural Network.py 
